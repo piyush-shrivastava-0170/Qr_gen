@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="global.css" />
+    <link rel="stylesheet" href="index.css" />
+   
+  </head>
+  <body>
+    <div class="qrgen">
+      <div class="qrgen-child"></div>
+      <!-- <textarea class="frame" placeholder="Enter Url" id="enterurl"> </textarea> -->
+      <div class="frame">
+        <input type="text" spellcheck="false" placeholder="Enter Url">
+      </div>
+      
+      <div class="qr-code-for-mobile-english-wik">
+        <img class="vector-icon" alt="" src="./public/vector.svg" />
+      </div>
+      <div class="frame1">
+        <div class="frame2">
+          <img class="frame-child" alt="" src="./public/vector-110.svg" />
+
+          <div class="frame-item"></div>
+        </div>
+        <div class="frame3">
+          <div class="frame4">
+            <div class="frame-inner"></div>
+          </div>
+          <div class="frame5">
+            <div class="frame6"></div>
+            <div class="frame7">
+              <div class="frame8">
+                <a class="login-wrapper" href="login.html">
+                  <button class="login" id="login">Login</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="pngwing-1" href="www.youtube.com"> </a>
+      <span class="copywrite-2023-container">
+        <span class="copywrite">Copywrite</span>
+        <span class="span"> </span>
+        <span class="all-rights-reserved">2023</span>
+        <span> </span>
+        <span class="all-rights-reserved"
+          >| All Rights Reserved to Maharshi Group</span
+        >
+      </span>
+      <div class="qrgen-item"></div>
+      <div class="social-icons-parent">
+        <a class="social-icons" href="https://www.youtube.com/">
+          <img class="vector-icon1" alt="" src="./public/vector1.svg" />
+        </a>
+        <a class="social-icons1" href="https://www.youtube.com/">
+          <img class="vector-icon2" alt="" src="./public/vector2.svg" />
+        </a>
+        <a class="social-icons2" href="https://www.youtube.com/">
+          <img class="vector-icon3" alt="" src="./public/vector3.svg" />
+        </a>
+        <a class="social-icons3" href="https://www.youtube.com/">
+          <img class="vector-icon1" alt="" src="./public/vector4.svg" />
+        </a>
+        <a class="social-icons4" href="https://www.youtube.com/">
+          <img class="vector-icon5" alt="" src="./public/vector5.svg" />
+
+          <img class="vector-icon6" alt="" src="./public/vector6.svg" />
+
+          <img class="vector-icon7" alt="" src="./public/vector7.svg" />
+        </a>
+        <a class="social-icons5" href="https://www.youtube.com/">
+          <img class="vector-icon8" alt="" src="./public/vector8.svg" />
+        </a>
+        <a class="social-icons6" href="https://www.youtube.com/">
+          <img class="vector-icon9" alt="" src="./public/vector9.svg" />
+        </a>
+      </div>
+      <i class="qrgen1">QRGEN</i>
+      <a class="company" href="https://www.youtube.com/">COMPANY</a>
+      <a class="about-us" href="https://www.youtube.com/">About Us</a>
+      <a class="terms-conditions" href="https://www.youtube.com/">Terms & Conditions</a>
+      <a class="privacy-policy" href="https://www.youtube.com/">Privacy Policy</a>
+    </div>
+  </body>
+</html>
