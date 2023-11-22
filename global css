@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+  --font-source-sans-3: "Source Sans 3";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #000;
+  --lime: #c5f42c;
+
+  /* Paddings */
+  --padding-10xl: 29px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+}
